@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://suman98kumar.github.io/Sumankumar.github.io/](https://suman98kumar.github.io/Sumankumar.github.io/)
 
-- 💬 Ask me about **Dynamic professional with a background in both banking and retail sectors, currently pursuing a career transition to a Data Analyst role. Proven skills in client relationship management and financial analysis. Eager to apply analytical expertise and technical proficiency in data analysis tools, SQL, and Excel in an entry-level Data Analyst position. Committed to contributing to data-driven decision-making and keen to embark on a rewarding journey in the field of data analytics.**
+- 💬 About Me **Dynamic professional with a background in both banking and retail sectors, currently pursuing a career transition to a Data Analyst role. Proven skills in client relationship management and financial analysis. Eager to apply analytical expertise and technical proficiency in data analysis tools, SQL, and Excel in an entry-level Data Analyst position. Committed to contributing to data-driven decision-making and keen to embark on a rewarding journey in the field of data analytics.**
 
 - 📫 How to reach me **sumankumarmba2020@gmail.com**
 
