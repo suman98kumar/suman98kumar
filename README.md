@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sumankumarmba2020@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAF6yt8WPKo/A7298GGy1W9ta0r9sG4eGA/edit](https://www.canva.com/design/DAF6yt8WPKo/A7298GGy1W9ta0r9sG4eGA/edit)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
