@@ -9,13 +9,15 @@
 
 - 👨‍💻 All of my projects are available at [https://suman98kumar.github.io/Sumankumar.github.io/](https://suman98kumar.github.io/Sumankumar.github.io/)
 
-- 💬 About Me **Dynamic professional with a background in both banking and retail sectors, currently pursuing a career transition to a Data Analyst role. Proven skills in client relationship management and financial analysis. Eager to apply analytical expertise and technical proficiency in data analysis tools, SQL, and Excel in an entry-level Data Analyst position. Committed to contributing to data-driven decision-making and keen to embark on a rewarding journey in the field of data analytics.**
+- 💬About Me **Dynamic professional with a background in both banking and retail sectors, currently pursuing a career transition to a Data Analyst role. Proven skills in client relationship management and financial analysis. Eager to apply analytical expertise and technical proficiency in data analysis tools, SQL, and Excel in an entry-level Data Analyst position. Committed to contributing to data-driven decision-making and keen to embark on a rewarding journey in the field of data analytics.**
 
 - 📫 How to reach me **sumankumarmba2020@gmail.com**
 
+- 📄 Know about my experiences [https://www.canva.com/design/DAF6yt8WPKo/A7298GGy1W9ta0r9sG4eGA/edit](https://www.canva.com/design/DAF6yt8WPKo/A7298GGy1W9ta0r9sG4eGA/edit)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://https://www.linkedin.com/in/sumankumar-r-01469019a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumankumar r" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sumankumar-r-01469019a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sumankumar-r-01469019a/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
